@@ -1,0 +1,101 @@
+customer_id,name,email,city,signup_date,customer_segment
+1,Emily Robinson,danielsteresa@example.net,Brewerport,2023-10-04,VIP
+2,Jon Nicholson,melissa32@example.com,Fordport,2023-05-07,Regular
+3,Courtney Smith,williamssarah@example.org,Kimstad,2025-03-06,VIP
+4,Ryan Espinoza,brownangela@example.com,Stephenton,2023-12-01,VIP
+5,Derek Davis,melissahill@example.org,Port Richardland,2024-01-19,Regular
+6,Justin Mccormick,christina30@example.org,West Staceyshire,2023-05-05,Regular
+7,Dawn Powers,christopher13@example.com,South Brittany,2024-03-16,New
+8,Jacob Wright,chad64@example.org,Kevinside,2024-05-11,VIP
+9,James White,melissaking@example.net,North Erik,2023-11-28,Regular
+10,Dawn Day,jbanks@example.com,Patriciaton,2024-01-18,Regular
+11,Stacy Moore,isaacjordan@example.com,Port Ericchester,2023-07-15,New
+12,James Turner,rebecca49@example.com,Walkerhaven,2024-09-29,Regular
+13,Belinda Hughes,brobinson@example.org,Hillchester,2024-10-29,Regular
+14,Kathleen Ray,alfred54@example.org,North Christineshire,2024-12-24,Regular
+15,Kathleen Sims,tammy12@example.com,South Rachel,2023-12-21,VIP
+16,Gloria Bender,sanderson@example.com,Andersonland,2023-04-30,New
+17,Priscilla Wells,judithporter@example.com,Port Adam,2023-06-10,New
+18,Jon Price,shannonmelissa@example.com,Lake Francesland,2024-11-16,Regular
+19,Ernest Farmer,terri48@example.com,Greenside,2024-12-29,New
+20,Brandon Fry,allenerin@example.net,South Anthonyport,2024-03-10,VIP
+21,Judith Richardson,longjessica@example.net,Lake Rogerfurt,2024-06-22,VIP
+22,Kimberly Terry,kylemora@example.net,Hubbardside,2024-09-27,New
+23,Debra Carlson,riveraphillip@example.org,Sarahhaven,2023-06-21,Regular
+24,Carrie Jones,gsims@example.com,West Todd,2023-07-31,Regular
+25,Janet Mcdonald,albertbrown@example.org,Davidfurt,2025-03-03,New
+26,Joshua Garcia,troybaker@example.org,Jacksonshire,2023-06-02,New
+27,Francisco Gibson,jmoore@example.net,Matthewmouth,2023-12-16,Regular
+28,Patricia Carey,uhoffman@example.com,Lanceshire,2024-10-21,VIP
+29,Robert Garcia,john27@example.com,Limouth,2024-03-09,Regular
+30,Jeffery Love,brandon13@example.org,Lake Michaelshire,2024-03-02,VIP
+31,Andrea Sweeney,stephenbuchanan@example.org,Alishaland,2024-03-31,Regular
+32,Sydney Rodriguez,sthompson@example.com,New Sarah,2023-09-02,VIP
+33,Laura Bryant,bethspencer@example.com,Nortontown,2024-06-05,VIP
+34,Hector Adams,obriggs@example.com,West David,2025-04-02,VIP
+35,Kathryn Perry,benjaminjones@example.net,Christopherborough,2025-01-23,New
+36,Andre Alvarado,asummers@example.net,South Dannyton,2023-07-27,New
+37,Rodney Jones,nstevens@example.org,West Jeremyville,2023-06-14,Regular
+38,Nicole Valencia,cervantesthomas@example.net,New Anthony,2024-06-02,New
+39,Carrie Cherry DVM,smithbrenda@example.com,East Judyfurt,2024-12-16,VIP
+40,Cody Hunt,romerosara@example.com,East Michaelmouth,2023-12-14,VIP
+41,Monique Campbell,harmonmichael@example.net,Lawrencefort,2023-07-14,VIP
+42,Nicholas Hart,dmay@example.org,Karenhaven,2024-05-19,Regular
+43,William Kelly,smithjon@example.org,Markside,2024-02-16,New
+44,Zachary Chen,theresaswanson@example.org,New Alexander,2025-01-05,Regular
+45,Linda Gomez,david28@example.com,New George,2025-03-07,New
+46,Dr. Suzanne Garcia,ricemonica@example.net,Josestad,2024-03-09,VIP
+47,Elizabeth Clements,jared73@example.net,Jacksonport,2025-02-17,New
+48,Logan Williams,rporter@example.net,New Jasontown,2023-10-22,New
+49,Kevin Williams,ryanjenkins@example.org,Belindaborough,2024-06-11,Regular
+50,Matthew Curtis,anthonyzuniga@example.net,Brentstad,2025-03-07,Regular
+51,Peter Willis,welchandrew@example.net,North Margaret,2024-11-14,VIP
+52,Mr. Thomas Wright Jr.,pford@example.net,East Coltonberg,2025-01-08,VIP
+53,Melissa Wood,laura73@example.com,Shermanborough,2024-01-24,New
+54,Angela Alvarez,murrayjanice@example.com,Lisastad,2024-03-29,Regular
+55,Joseph Wells,wilcoxchristopher@example.com,Bradyfort,2023-08-25,Regular
+56,Marisa Walker,hayala@example.com,Kaitlynfort,2025-03-17,New
+57,Nicole Ball,rsmith@example.org,Dudleybury,2024-02-24,New
+58,Deborah Lewis,rhodeslisa@example.net,Mooreside,2025-01-04,VIP
+59,Laura Petty,heidigilbert@example.com,Melissaberg,2024-04-30,New
+60,Patricia Morris,blanchardfrancis@example.com,North Jacqueline,2024-12-20,VIP
+61,Christina Young,jeffreymitchell@example.net,Ramirezport,2024-10-07,New
+62,Trevor Acosta III,charleschavez@example.com,Lunashire,2024-05-02,New
+63,Edward Martin,margaret19@example.com,Port Alexandershire,2024-03-12,New
+64,Linda Hess,michael29@example.com,West Christinemouth,2024-01-24,New
+65,Jennifer Perez,woodsrebecca@example.org,Ritatown,2025-03-02,New
+66,Tracy Sullivan,mwang@example.net,Bartonland,2023-06-04,Regular
+67,Charles Patton,kelseywatson@example.com,South Todd,2023-10-29,New
+68,Steven Castro,rschroeder@example.com,Brownmouth,2024-06-09,VIP
+69,Heather Smith,kparker@example.net,Lake Frederickview,2024-07-18,Regular
+70,Scott Garza,jason83@example.com,Christopherland,2024-03-08,VIP
+71,Michael Welch,zwright@example.net,New Georgefort,2023-06-17,Regular
+72,Curtis Odonnell,louis66@example.net,Joshuaburgh,2024-09-13,New
+73,John Hill,thorntonjames@example.com,East Kathrynfort,2024-11-09,VIP
+74,Jessica Wilson,cory67@example.com,New Deniseberg,2023-11-05,VIP
+75,Kendra Rhodes,lmckenzie@example.net,New Bianca,2024-08-19,New
+76,Phillip Perry,xbryant@example.com,Port Deborahfurt,2025-03-02,Regular
+77,Bethany Soto,jerryrussell@example.net,Ashleyshire,2025-03-30,New
+78,Angela Rodgers,fchang@example.net,Gregoryton,2024-01-28,VIP
+79,Steven Soto,andrewsmelissa@example.org,Richardsland,2023-10-30,VIP
+80,Joseph Hooper,nathan72@example.org,Jenniferhaven,2024-06-10,VIP
+81,Michael Shannon,troycooke@example.com,New Sarabury,2023-10-28,Regular
+82,Douglas Sullivan,jerrysullivan@example.net,Lake Aaronburgh,2024-09-03,Regular
+83,Kelsey Rodriguez,alleneric@example.org,South Sandraton,2024-11-19,New
+84,Kelly Valdez,welchchad@example.org,Jessicaberg,2023-11-16,Regular
+85,Kimberly Hamilton,kellerbenjamin@example.org,Gonzalezfort,2025-02-18,New
+86,Elizabeth Thomas,jscott@example.com,Kathrynhaven,2024-02-10,Regular
+87,Edward Brown,srichardson@example.com,New Christopherstad,2024-01-22,VIP
+88,Emma Rich,lward@example.org,Cindyhaven,2023-06-08,VIP
+89,Karen Rivera,cartertimothy@example.com,North Garrett,2023-06-10,Regular
+90,Kelly Garcia,kaylee99@example.net,Barreraton,2024-11-26,Regular
+91,Kathleen Hernandez,benjaminmarquez@example.com,East Melissaberg,2023-10-14,New
+92,Danielle Lyons,cynthiarichardson@example.com,Coxside,2023-04-16,New
+93,Mary Johnson,kimberlybarnes@example.org,South Robert,2024-12-14,Regular
+94,Robert Tucker,gpierce@example.org,Lake Katiechester,2023-06-29,Regular
+95,Jason Miller,qroberts@example.org,South Debra,2024-02-15,VIP
+96,Taylor Pena,vaughnmichele@example.net,North Arthur,2024-09-14,Regular
+97,Melissa Walker,timothy92@example.com,Carloston,2023-10-18,Regular
+98,Michael Valdez,jenniferdavidson@example.org,Owenfort,2024-07-10,VIP
+99,Donald Moore,tarawatson@example.net,West Heatherhaven,2023-05-16,VIP
+100,Jennifer Stephens,chogan@example.com,Port Richard,2023-09-16,VIP
